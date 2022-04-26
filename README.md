@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **marwamaarouf2@gmail.com**
 
-- ⚡ Fun fact **cat owner**
+- ⚡ Fun fact ** a mom to a cat name sky **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
