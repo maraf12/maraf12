@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm marwa</h1>
 <h3 align="center">A passionate computer science student</h3>
-<img align ="right" alt="cat" width="400" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif">
+<img align ="right" alt="cat" width="400" src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif](https://www.linkedin.com/posts/darrienglasser_hey-folks-ever-been-curious-how-a-gif-works-activity-6889376188351995904-feh8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maraf12&label=Profile%20views&color=0e75b6&style=flat" alt="maraf12" /> </p>
 
