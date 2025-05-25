@@ -7,7 +7,7 @@
 </p>
 
 - 🌩️ Currently working on **infrastructure automation, CI/CD, and Kubernetes**  
-- 🛠️ Tech I'm hands-on with: **Terraform, Ansible, Azure, AWS, Jenkins, AKS, Rancher**  
+- 🛠️ Tech I'm hands-on with: **Terraform, Ansible, Azure, AWS, Jenkins, AKS, Rancher , EKS , K8S , linux **  
 - 💻 Previously a developer — now I bridge the gap between code and cloud  
 - 📫 Reach me at **marwamaarouf2@gmail.com**  
 - 😺 Fun fact: I’m a proud cat mom to **Sky**
